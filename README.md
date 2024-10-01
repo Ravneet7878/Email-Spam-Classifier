@@ -1,2 +1,2 @@
-# Email-Spam-Classifier
-Impplemented an Email Spam Classifier using the concept of Naive Bayes.
+# email-spam-classifier-new
+End to end code for the email spam classifier project
